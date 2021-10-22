@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #bdc3c7;
 }
 
 code {
@@ -15,5 +16,22 @@ code {
 input {
   padding: 5px;
   width: 500px;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
+  font-style: italic;
+  font-display: swap;
+  font-family: "Open Sans Regular";
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #154360;
+  font-size: 3rem;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h4 {
+  font-size: 15px;
 }
